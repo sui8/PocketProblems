@@ -3,7 +3,7 @@
 問題をjsonファイルに追加し、ランダムに演習することができるツールです。  
 
 ## Usage
-`addProblems.py`で問題の追加ができます。問題は`problems.json`に保存されます。  
+`addProblem.py`で問題の追加ができます。問題は`problems.json`に保存されます。  
 `PocketProblems.py`で演習が可能です。  
 
 ## Disclaimer
